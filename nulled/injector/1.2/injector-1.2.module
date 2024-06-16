@@ -3,7 +3,7 @@
   "component": {
     "group": "nulled",
     "module": "injector",
-    "version": "1.1",
+    "version": "1.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "injector-1.1.jar",
-          "url": "injector-1.1.jar",
-          "size": 408239,
-          "sha512": "96eeef5e117aadbd38e5eec01b14321553dd6faaffe5c5408f471d798aa48197d5832229223a76940bf974d86d86368904a963b4beea069aaa41a33cf441bbcc",
-          "sha256": "897d8997d929917e671719d33e169bd00fe51373bc44d93c36e3359011b3669a",
-          "sha1": "be892360428f4d1c4c3abd6b0b2a7c802654ec31",
-          "md5": "cd3a0a1ad9c9837f3f0ce7981ccfdfdb"
+          "name": "injector-1.2.jar",
+          "url": "injector-1.2.jar",
+          "size": 408598,
+          "sha512": "babe7882d7bb2b829b6252a07a3c4eed990d47651258dd1a0126ad582466a871d1ed76580b32ecf9ae354afeadf5f145d4fd6b25361035b28a01734f0d6fa75a",
+          "sha256": "e3b30ac3fa262ac9ef28dad099cfa9e55533cfe4a72e9503fac38a5538aec579",
+          "sha1": "8c0e6dac93a0a0a3be520d5fdd1fe93fa63a659d",
+          "md5": "28e9b67a78cae6efcbd15f1655d9fe2f"
         }
       ]
     },
@@ -138,13 +138,13 @@
       ],
       "files": [
         {
-          "name": "injector-1.1.jar",
-          "url": "injector-1.1.jar",
-          "size": 408239,
-          "sha512": "96eeef5e117aadbd38e5eec01b14321553dd6faaffe5c5408f471d798aa48197d5832229223a76940bf974d86d86368904a963b4beea069aaa41a33cf441bbcc",
-          "sha256": "897d8997d929917e671719d33e169bd00fe51373bc44d93c36e3359011b3669a",
-          "sha1": "be892360428f4d1c4c3abd6b0b2a7c802654ec31",
-          "md5": "cd3a0a1ad9c9837f3f0ce7981ccfdfdb"
+          "name": "injector-1.2.jar",
+          "url": "injector-1.2.jar",
+          "size": 408598,
+          "sha512": "babe7882d7bb2b829b6252a07a3c4eed990d47651258dd1a0126ad582466a871d1ed76580b32ecf9ae354afeadf5f145d4fd6b25361035b28a01734f0d6fa75a",
+          "sha256": "e3b30ac3fa262ac9ef28dad099cfa9e55533cfe4a72e9503fac38a5538aec579",
+          "sha1": "8c0e6dac93a0a0a3be520d5fdd1fe93fa63a659d",
+          "md5": "28e9b67a78cae6efcbd15f1655d9fe2f"
         }
       ]
     }
