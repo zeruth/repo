@@ -3,7 +3,7 @@
   "component": {
     "group": "nulled",
     "module": "logger",
-    "version": "1.1",
+    "version": "1.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.1.jar",
-          "url": "logger-1.1.jar",
+          "name": "logger-1.2.jar",
+          "url": "logger-1.2.jar",
           "size": 7529,
-          "sha512": "02366cd862cadc31450341441281259c69819c759d41ebcd241571f58c46fead56db575d95a227ad7e9dfa7655e86cd4e947a39d81a688511d4bd8fe4b9a56c7",
-          "sha256": "6ef83818b3d4a329584baa8a74f0ec57ae55fcb2e4c86d273f66bd5bb4885783",
-          "sha1": "ac395965368e25f7e18c81eebf0ffc49e26e6ef8",
-          "md5": "a8faa360f187f34c2d3d3a531d491014"
+          "sha512": "4577820df475913819c87ce136e6bff761bb0416efde6c127d152c38272e373480f205ca173020b0ac7d39489711ed9788614979adcff855aafcf5ea62538237",
+          "sha256": "de2d335c0de9f4725cacb8c67281703cf075222ff015b49fdbf62bbe9622cf2a",
+          "sha1": "39930f56814d558a82c13197b3c8294a3df959d3",
+          "md5": "900e39f8e2e460dc3036d4a5c452583f"
         }
       ]
     },
@@ -68,13 +68,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.1.jar",
-          "url": "logger-1.1.jar",
+          "name": "logger-1.2.jar",
+          "url": "logger-1.2.jar",
           "size": 7529,
-          "sha512": "02366cd862cadc31450341441281259c69819c759d41ebcd241571f58c46fead56db575d95a227ad7e9dfa7655e86cd4e947a39d81a688511d4bd8fe4b9a56c7",
-          "sha256": "6ef83818b3d4a329584baa8a74f0ec57ae55fcb2e4c86d273f66bd5bb4885783",
-          "sha1": "ac395965368e25f7e18c81eebf0ffc49e26e6ef8",
-          "md5": "a8faa360f187f34c2d3d3a531d491014"
+          "sha512": "4577820df475913819c87ce136e6bff761bb0416efde6c127d152c38272e373480f205ca173020b0ac7d39489711ed9788614979adcff855aafcf5ea62538237",
+          "sha256": "de2d335c0de9f4725cacb8c67281703cf075222ff015b49fdbf62bbe9622cf2a",
+          "sha1": "39930f56814d558a82c13197b3c8294a3df959d3",
+          "md5": "900e39f8e2e460dc3036d4a5c452583f"
         }
       ]
     }
