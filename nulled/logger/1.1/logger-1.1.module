@@ -3,7 +3,7 @@
   "component": {
     "group": "nulled",
     "module": "logger",
-    "version": "1.0",
+    "version": "1.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.0.jar",
-          "url": "logger-1.0.jar",
-          "size": 8547,
-          "sha512": "c56aca819ab7402107aef06c5acf70ac1922d7fd436b2b7bfe16f299ce3700f1d7e003caae9a62352f58ef30ff001591158ed677ad9ec7cd9d9d937240acfa6a",
-          "sha256": "de387222abcaa55c92101c35cc99a774a34d08772b7e67c4f6a8e1c9c715ea10",
-          "sha1": "cc3f2cbe77711db334c194171653c67e361def69",
-          "md5": "deff5af2ebd2f3e0c9bfb786af7fe748"
+          "name": "logger-1.1.jar",
+          "url": "logger-1.1.jar",
+          "size": 7352,
+          "sha512": "37aad47dcb8cc1d6b57a37e2520c8d4c42943cb633f04654257f898bae17e25ff8e311d9551a9dc00c473e1c73570f3ee131d0244682282e8d843280a6277d8e",
+          "sha256": "162c370dd678108940cc81bafa9f5a6dce92291f2962f10bc1e7bf20a3fbb060",
+          "sha1": "8021ec8b409ceb21e6854176f739a7284eeffa33",
+          "md5": "1429f8cdc343bd495416fe9535a5278e"
         }
       ]
     },
@@ -68,13 +68,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.0.jar",
-          "url": "logger-1.0.jar",
-          "size": 8547,
-          "sha512": "c56aca819ab7402107aef06c5acf70ac1922d7fd436b2b7bfe16f299ce3700f1d7e003caae9a62352f58ef30ff001591158ed677ad9ec7cd9d9d937240acfa6a",
-          "sha256": "de387222abcaa55c92101c35cc99a774a34d08772b7e67c4f6a8e1c9c715ea10",
-          "sha1": "cc3f2cbe77711db334c194171653c67e361def69",
-          "md5": "deff5af2ebd2f3e0c9bfb786af7fe748"
+          "name": "logger-1.1.jar",
+          "url": "logger-1.1.jar",
+          "size": 7352,
+          "sha512": "37aad47dcb8cc1d6b57a37e2520c8d4c42943cb633f04654257f898bae17e25ff8e311d9551a9dc00c473e1c73570f3ee131d0244682282e8d843280a6277d8e",
+          "sha256": "162c370dd678108940cc81bafa9f5a6dce92291f2962f10bc1e7bf20a3fbb060",
+          "sha1": "8021ec8b409ceb21e6854176f739a7284eeffa33",
+          "md5": "1429f8cdc343bd495416fe9535a5278e"
         }
       ]
     }
