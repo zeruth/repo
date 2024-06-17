@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "nulled",
+    "module": "eventbus",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "eventbus-1.1.jar",
+          "url": "eventbus-1.1.jar",
+          "size": 45272,
+          "sha512": "716fdb8af7242cb68e41d2b252594a5fa44b6ace88040a792ccbead5b1e5b837a73d17642a1884139f0ff3463534980a3c1993fd85e817c8e46d91e3065b7457",
+          "sha256": "84ea6a057d52ff94ab3501a6f1fe13cfc1ebda1c47ec9547f010067f7cea7574",
+          "sha1": "e2407bf70acc927453a7d5a8c11c2121f4669c56",
+          "md5": "18331daa1a8ceb0607241ef0a3dec6dd"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core-jvm",
+          "version": {
+            "requires": "1.8.1-Beta"
+          }
+        },
+        {
+          "group": "io.github.microutils",
+          "module": "kotlin-logging",
+          "version": {
+            "requires": "4.0.0-beta-2"
+          }
+        },
+        {
+          "group": "nulled",
+          "module": "logger",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "eventbus-1.1.jar",
+          "url": "eventbus-1.1.jar",
+          "size": 45272,
+          "sha512": "716fdb8af7242cb68e41d2b252594a5fa44b6ace88040a792ccbead5b1e5b837a73d17642a1884139f0ff3463534980a3c1993fd85e817c8e46d91e3065b7457",
+          "sha256": "84ea6a057d52ff94ab3501a6f1fe13cfc1ebda1c47ec9547f010067f7cea7574",
+          "sha1": "e2407bf70acc927453a7d5a8c11c2121f4669c56",
+          "md5": "18331daa1a8ceb0607241ef0a3dec6dd"
+        }
+      ]
+    }
+  ]
+}
