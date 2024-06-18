@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>nulled.injector</groupId>
   <artifactId>nulled.injector.gradle.plugin</artifactId>
-  <version>1.3</version>
+  <version>1.4</version>
   <packaging>pom</packaging>
   <dependencies>
     <dependency>
       <groupId>nulled</groupId>
       <artifactId>injector</artifactId>
-      <version>1.3</version>
+      <version>1.4</version>
     </dependency>
   </dependencies>
 </project>
