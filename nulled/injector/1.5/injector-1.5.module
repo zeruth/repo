@@ -1,0 +1,152 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "nulled",
+    "module": "injector",
+    "version": "1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "injector-1.5.jar",
+          "url": "injector-1.5.jar",
+          "size": 413404,
+          "sha512": "fbbc861a000beb0f6ac2709dccbd0fdf4888d98c273d0cec412fdb96c80e96479af1b90915ccf8eb1da68d8043457fb30f90e33e8f94d312dd5e52b11685297c",
+          "sha256": "99160dc13f8162e9d8b78f91bd70b50122588beed62682cf181f777a301397b8",
+          "sha1": "e17cbe09328a7bbfcf853e970b4e66a4eab4dfc5",
+          "md5": "e0e6ab66af39f7dc76a13f62f11ed1de"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "javax.inject",
+          "module": "javax.inject",
+          "version": {
+            "requires": "1"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.7"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-util",
+          "version": {
+            "requires": "9.7"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.1.0-jre"
+          }
+        },
+        {
+          "group": "net.sf.jopt-simple",
+          "module": "jopt-simple",
+          "version": {
+            "requires": "6.0-alpha-3"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "24.1.0"
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "fernflower",
+          "version": {
+            "requires": "07082019"
+          }
+        },
+        {
+          "group": "nulled",
+          "module": "logger",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "nulled",
+          "module": "annotations",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "injector-1.5.jar",
+          "url": "injector-1.5.jar",
+          "size": 413404,
+          "sha512": "fbbc861a000beb0f6ac2709dccbd0fdf4888d98c273d0cec412fdb96c80e96479af1b90915ccf8eb1da68d8043457fb30f90e33e8f94d312dd5e52b11685297c",
+          "sha256": "99160dc13f8162e9d8b78f91bd70b50122588beed62682cf181f777a301397b8",
+          "sha1": "e17cbe09328a7bbfcf853e970b4e66a4eab4dfc5",
+          "md5": "e0e6ab66af39f7dc76a13f62f11ed1de"
+        }
+      ]
+    }
+  ]
+}
